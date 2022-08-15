@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:unitestsupport.helloWorld"
+        "onCommand:unitestSupport.GenSelentionCode"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "unitestsupport.helloWorld",
-				"title": "Hello World"
+				"command": "unitestSupport.GenSelentionCode",
+				"title": "VSCode Extension UnitTest Support - Gen Selection Code"
 			}
 		]
 	},

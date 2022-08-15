@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
-	let disposable = vscode.commands.registerCommand('unitestsupport.helloWorld', async () => {
+	let disposable = vscode.commands.registerCommand('unitestSupport.GenSelentionCode', async () => {
 		const editor = vscode.window.activeTextEditor;
 		if (!editor) { return; }
 		const orgSelections = editor.selections;
