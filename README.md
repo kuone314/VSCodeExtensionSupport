@@ -10,3 +10,7 @@ new vscode.Selection(new vscode.Position(7,3),new vscode.Position(7,34)),
 ];
 ```
 
+# Link
+
+* [GitHub](https://github.com/kuone314/VSCodeExtensionSupport)
+* [Twitter](https://twitter.com/KuoneTech)
