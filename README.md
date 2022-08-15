@@ -1,3 +1,7 @@
+![badge](https://img.shields.io/github/forks/kuone314/VSCodeExtensionSupport)
+![badge](https://img.shields.io/github/stars/kuone314/VSCodeExtensionSupport)
+![badge](https://img.shields.io/github/license/kuone314/VSCodeExtensionSupport)
+
 * 選択状態を元に、VSCode拡張機能のテスト用のコードを生成します。
   * 生成したコードは、クリップボードへ記録されます。
   * 以下の様なコードを生成します。
