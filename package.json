@@ -1,6 +1,6 @@
 {
   "name": "unitestsupport",
-	"displayName": "UniTestSupport",
+	"displayName": "VSCode Extension Support",
 	"description": "",
 	"version": "0.0.1",
 	"repository": "https://github.com/kuone314/VSCodeExtensionSupport",
